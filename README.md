@@ -4,7 +4,7 @@ This project aims to predict the prices of used cars based on various factors su
 ## Project Overview
 The project employs linear regression to analyze historical data of used cars. The goal is to build a regression model that estimates car prices based on several vehicle characteristics, providing a transparent tool for pricing decisions.
 
-Dataset
+## Dataset
 The dataset used in this analysis contains the following columns:
 
 ID: Unique identifier for each entry
@@ -25,7 +25,8 @@ Doors: Number of doors on the vehicle
 Wheel: Information about the wheel
 Color: Exterior color of the vehicle
 Airbags: Total number of airbags
-Hypothesis Testing
+
+## Hypothesis Testing
 The project includes hypothesis testing to examine the relationship between car attributes and their prices. The hypotheses are as follows:
 
 1. Manufacturer
@@ -39,7 +40,8 @@ H0: The average price of cars in the Jeep category is the same as the average pr
 H1: The average price of cars in the Jeep category is higher than the average price of cars in other categories.
 Other Hypotheses:
 Leather interior, Fuel type, Gear box type, Wheel, and Airbags also undergo hypothesis testing, with the goal of identifying statistically significant differences in prices based on these factors.
-Regression Model
+
+## Regression Model
 A linear regression model was created to predict used car prices based on five predictors: Manufacturer, Prod_year, Fuel_type, Gear_box_type, and Wheel. The final regression equation is:
 
 makefile
