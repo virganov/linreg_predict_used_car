@@ -1,4 +1,4 @@
-Predicting Used Car Prices Using Regression
+## Predicting Used Car Prices Using Regression
 This project aims to predict the prices of used cars based on various factors such as manufacturer, production year, fuel type, gear box type, and wheel drive. The goal is to develop a data-driven approach to estimate fair prices for used cars, helping buyers and sellers set competitive and reasonable prices in the market.
 
 Project Overview
