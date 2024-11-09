@@ -7,9 +7,9 @@ The project employs linear regression to analyze historical data of used cars. T
 ## Dataset
 The dataset used in this analysis contains the following columns:
 
-ID: Unique identifier for each entry
+- ID: Unique identifier for each entry
 Price: The price of the vehicle (target variable)
-Levy: Tax or additional charges associated with the vehicle
+- Levy: Tax or additional charges associated with the vehicle
 Manufacturer: The brand or maker of the vehicle
 Model: Specific model of the vehicle
 Prod_year: Production or manufacturing year of the vehicle
